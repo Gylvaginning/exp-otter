@@ -1,2 +1,2 @@
 # exp-otter
-A repository for mixing and matching experimental files
+A repository for experimental and test files
